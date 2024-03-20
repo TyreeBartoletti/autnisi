@@ -1,0 +1,31 @@
+{
+  "name": "autnisi",
+  "version": "1.0.0",
+  "description": "Dead simple script string to function execution with arguments, context and error catching.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TyreeBartoletti/autnisi.git"
+  },
+  "keywords": [
+    "javascript",
+    "velit",
+    "et",
+    "fugiat",
+    "dolore"
+  ],
+  "author": "LeonelNienow",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
